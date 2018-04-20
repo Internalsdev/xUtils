@@ -1,0 +1,7 @@
+name: xUtils
+main: com.verenitymc.xutil.Coresion: 0.25
+author: [Mat]
+description: VerenityMC utilities plugin.
+commands:
+  test:
+    description: Test functions.

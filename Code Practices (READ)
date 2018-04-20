@@ -1,0 +1,43 @@
+
+*********************
+Within this project you will should use the following conventions, this is through the whole of HexCade
+*********************
+
+1) Please make the use of headers in class files, explain what the class does, most if not
+all of the ambiguous classes will have this.
+    - Write who the class was written by, (also who may have modified it too)
+    - Write what the function of the class is
+
+2) Programming style should always be in AllMan, if you're unaware of programming styles
+then I suggest you read up on them here https://en.wikipedia.org/wiki/Indentation_style;
+the reasoning for the indentation style is for the tracking of braces.
+
+3) PLEASE USE JAVA 8!
+   A lot of these functions will use java 8 components like the stream api
+    Functions I would like to see you using:
+        - The stream api, if you do not know about how to use it then please do, it makes for a lot
+          faster coding.
+        - Use lambadas where possible! If you don't know how to use lambadas then there's a brilliant tutorial here
+          https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html, don't let them intimidate you,
+          there are plenty of examples within this code.
+        - WHEN OPENING PREDICATES PLEASE USE ALLMAN STYLE TOO
+    This means:
+        - No more traditional for-in loops, use #forEach in the arrayList class.
+        - Only use traditional for loops when trying to return statements within that method.
+
+4) COMMIT ALL YOUR SHIT WHEN IT'S WORKING AND CONSTANTLY PULL CHANGES
+    The most annoying thing about collaboration is where people refrain from making commits after doing a lot of work,
+    this may not work with other developer's contributions and cause us more issues than needed, your fault, you sort out the
+    merge request.
+
+5) KEEP OTHERS UPDATED ON THE FILES YOU ARE WORKING ON.
+    As you may know communication is key, if someone is working on the same file as you or a file that may
+    effect another file that another developer is working on then it is best to notify them.
+        - Don't be afraid to collab and PM other developers.
+
+6) ALWAYS MESSAGE THE DISCORD AND TELL PEOPLE TO PULL CHANGES ONCE YOU HAVE PUSHED.
+
+Thanks
+- Mat
+
+
